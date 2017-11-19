@@ -1,0 +1,2 @@
+#to change the port in jenkins 
+Java -jar jenkins.war --httpPort=8081
